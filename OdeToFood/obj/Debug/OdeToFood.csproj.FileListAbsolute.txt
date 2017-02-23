@@ -1,0 +1,172 @@
+Z:\Study material\Coding\Projects\OdeToFood\OdeToFood\bin\ApplicationInsights.config
+Z:\Study material\Coding\Projects\OdeToFood\OdeToFood\bin\roslyn\csc.exe
+Z:\Study material\Coding\Projects\OdeToFood\OdeToFood\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Z:\Study material\Coding\Projects\OdeToFood\OdeToFood\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Z:\Study material\Coding\Projects\OdeToFood\OdeToFood\bin\roslyn\Microsoft.CodeAnalysis.dll
+Z:\Study material\Coding\Projects\OdeToFood\OdeToFood\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Z:\Study material\Coding\Projects\OdeToFood\OdeToFood\bin\roslyn\Microsoft.CSharp.Core.targets
+Z:\Study material\Coding\Projects\OdeToFood\OdeToFood\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Z:\Study material\Coding\Projects\OdeToFood\OdeToFood\bin\roslyn\System.Collections.Immutable.dll
+Z:\Study material\Coding\Projects\OdeToFood\OdeToFood\bin\roslyn\System.Reflection.Metadata.dll
+Z:\Study material\Coding\Projects\OdeToFood\OdeToFood\bin\roslyn\vbc.exe
+Z:\Study material\Coding\Projects\OdeToFood\OdeToFood\bin\roslyn\VBCSCompiler.exe
+Z:\Study material\Coding\Projects\OdeToFood\OdeToFood\bin\roslyn\VBCSCompiler.exe.config
+Z:\Study material\Coding\Projects\OdeToFood\OdeToFood\bin\OdeToFood.dll.config
+Z:\Study material\Coding\Projects\OdeToFood\OdeToFood\bin\OdeToFood.dll
+Z:\Study material\Coding\Projects\OdeToFood\OdeToFood\bin\OdeToFood.pdb
+Z:\Study material\Coding\Projects\OdeToFood\OdeToFood\bin\Antlr3.Runtime.dll
+Z:\Study material\Coding\Projects\OdeToFood\OdeToFood\bin\EntityFramework.dll
+Z:\Study material\Coding\Projects\OdeToFood\OdeToFood\bin\EntityFramework.SqlServer.dll
+Z:\Study material\Coding\Projects\OdeToFood\OdeToFood\bin\Microsoft.AI.Agent.Intercept.dll
+Z:\Study material\Coding\Projects\OdeToFood\OdeToFood\bin\Microsoft.AI.DependencyCollector.dll
+Z:\Study material\Coding\Projects\OdeToFood\OdeToFood\bin\Microsoft.AI.PerfCounterCollector.dll
+Z:\Study material\Coding\Projects\OdeToFood\OdeToFood\bin\Microsoft.AI.ServerTelemetryChannel.dll
+Z:\Study material\Coding\Projects\OdeToFood\OdeToFood\bin\Microsoft.AI.Web.dll
+Z:\Study material\Coding\Projects\OdeToFood\OdeToFood\bin\Microsoft.AI.WindowsServer.dll
+Z:\Study material\Coding\Projects\OdeToFood\OdeToFood\bin\Microsoft.ApplicationInsights.dll
+Z:\Study material\Coding\Projects\OdeToFood\OdeToFood\bin\Microsoft.AspNet.Identity.Core.dll
+Z:\Study material\Coding\Projects\OdeToFood\OdeToFood\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+Z:\Study material\Coding\Projects\OdeToFood\OdeToFood\bin\Microsoft.AspNet.Identity.Owin.dll
+Z:\Study material\Coding\Projects\OdeToFood\OdeToFood\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Z:\Study material\Coding\Projects\OdeToFood\OdeToFood\bin\Microsoft.Owin.dll
+Z:\Study material\Coding\Projects\OdeToFood\OdeToFood\bin\Microsoft.Owin.Host.SystemWeb.dll
+Z:\Study material\Coding\Projects\OdeToFood\OdeToFood\bin\Microsoft.Owin.Security.Cookies.dll
+Z:\Study material\Coding\Projects\OdeToFood\OdeToFood\bin\Microsoft.Owin.Security.dll
+Z:\Study material\Coding\Projects\OdeToFood\OdeToFood\bin\Microsoft.Owin.Security.Facebook.dll
+Z:\Study material\Coding\Projects\OdeToFood\OdeToFood\bin\Microsoft.Owin.Security.Google.dll
+Z:\Study material\Coding\Projects\OdeToFood\OdeToFood\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+Z:\Study material\Coding\Projects\OdeToFood\OdeToFood\bin\Microsoft.Owin.Security.OAuth.dll
+Z:\Study material\Coding\Projects\OdeToFood\OdeToFood\bin\Microsoft.Owin.Security.Twitter.dll
+Z:\Study material\Coding\Projects\OdeToFood\OdeToFood\bin\Microsoft.Web.Infrastructure.dll
+Z:\Study material\Coding\Projects\OdeToFood\OdeToFood\bin\Newtonsoft.Json.dll
+Z:\Study material\Coding\Projects\OdeToFood\OdeToFood\bin\Owin.dll
+Z:\Study material\Coding\Projects\OdeToFood\OdeToFood\bin\System.Web.Helpers.dll
+Z:\Study material\Coding\Projects\OdeToFood\OdeToFood\bin\System.Web.Mvc.dll
+Z:\Study material\Coding\Projects\OdeToFood\OdeToFood\bin\System.Web.Optimization.dll
+Z:\Study material\Coding\Projects\OdeToFood\OdeToFood\bin\System.Web.Razor.dll
+Z:\Study material\Coding\Projects\OdeToFood\OdeToFood\bin\System.Web.WebPages.Deployment.dll
+Z:\Study material\Coding\Projects\OdeToFood\OdeToFood\bin\System.Web.WebPages.dll
+Z:\Study material\Coding\Projects\OdeToFood\OdeToFood\bin\System.Web.WebPages.Razor.dll
+Z:\Study material\Coding\Projects\OdeToFood\OdeToFood\bin\WebGrease.dll
+Z:\Study material\Coding\Projects\OdeToFood\OdeToFood\bin\Microsoft.AI.DependencyCollector.xml
+Z:\Study material\Coding\Projects\OdeToFood\OdeToFood\bin\Microsoft.AI.ServerTelemetryChannel.xml
+Z:\Study material\Coding\Projects\OdeToFood\OdeToFood\bin\Microsoft.AI.Web.xml
+Z:\Study material\Coding\Projects\OdeToFood\OdeToFood\bin\Microsoft.AI.WindowsServer.xml
+Z:\Study material\Coding\Projects\OdeToFood\OdeToFood\bin\Microsoft.ApplicationInsights.xml
+Z:\Study material\Coding\Projects\OdeToFood\OdeToFood\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Z:\Study material\Coding\Projects\OdeToFood\OdeToFood\bin\System.Web.Helpers.xml
+Z:\Study material\Coding\Projects\OdeToFood\OdeToFood\bin\System.Web.Mvc.xml
+Z:\Study material\Coding\Projects\OdeToFood\OdeToFood\bin\System.Web.Optimization.xml
+Z:\Study material\Coding\Projects\OdeToFood\OdeToFood\bin\System.Web.Razor.xml
+Z:\Study material\Coding\Projects\OdeToFood\OdeToFood\bin\System.Web.WebPages.xml
+Z:\Study material\Coding\Projects\OdeToFood\OdeToFood\bin\System.Web.WebPages.Deployment.xml
+Z:\Study material\Coding\Projects\OdeToFood\OdeToFood\bin\System.Web.WebPages.Razor.xml
+Z:\Study material\Coding\Projects\OdeToFood\OdeToFood\bin\Antlr3.Runtime.pdb
+Z:\Study material\Coding\Projects\OdeToFood\OdeToFood\bin\Newtonsoft.Json.xml
+Z:\Study material\Coding\Projects\OdeToFood\OdeToFood\bin\EntityFramework.xml
+Z:\Study material\Coding\Projects\OdeToFood\OdeToFood\bin\EntityFramework.SqlServer.xml
+Z:\Study material\Coding\Projects\OdeToFood\OdeToFood\bin\Microsoft.AspNet.Identity.Core.xml
+Z:\Study material\Coding\Projects\OdeToFood\OdeToFood\bin\Microsoft.AspNet.Identity.Owin.xml
+Z:\Study material\Coding\Projects\OdeToFood\OdeToFood\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+Z:\Study material\Coding\Projects\OdeToFood\OdeToFood\bin\Microsoft.Owin.xml
+Z:\Study material\Coding\Projects\OdeToFood\OdeToFood\bin\Microsoft.Owin.Host.SystemWeb.xml
+Z:\Study material\Coding\Projects\OdeToFood\OdeToFood\bin\Microsoft.Owin.Security.xml
+Z:\Study material\Coding\Projects\OdeToFood\OdeToFood\bin\Microsoft.Owin.Security.Facebook.xml
+Z:\Study material\Coding\Projects\OdeToFood\OdeToFood\bin\Microsoft.Owin.Security.Cookies.xml
+Z:\Study material\Coding\Projects\OdeToFood\OdeToFood\bin\Microsoft.Owin.Security.OAuth.xml
+Z:\Study material\Coding\Projects\OdeToFood\OdeToFood\bin\Microsoft.Owin.Security.Google.xml
+Z:\Study material\Coding\Projects\OdeToFood\OdeToFood\bin\Microsoft.Owin.Security.Twitter.xml
+Z:\Study material\Coding\Projects\OdeToFood\OdeToFood\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+Z:\Study material\Coding\Projects\OdeToFood\OdeToFood\obj\Debug\OdeToFood.csprojResolveAssemblyReference.cache
+Z:\Study material\Coding\Projects\OdeToFood\OdeToFood\obj\Debug\OdeToFood.dll
+Z:\Study material\Coding\Projects\OdeToFood\OdeToFood\obj\Debug\OdeToFood.pdb
+Z:\Study material\Coding\Projects\OdeToFood\OdeToFood\obj\Debug\OdeToFood.Migrations.InitialCreate.resources
+Z:\Study material\Coding\Projects\OdeToFood\OdeToFood\obj\Debug\OdeToFood.csproj.GenerateResource.Cache
+D:\Others\Projects\OdeToFood\OdeToFood\OdeToFood\bin\ApplicationInsights.config
+D:\Others\Projects\OdeToFood\OdeToFood\OdeToFood\bin\roslyn\csc.exe
+D:\Others\Projects\OdeToFood\OdeToFood\OdeToFood\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Others\Projects\OdeToFood\OdeToFood\OdeToFood\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Others\Projects\OdeToFood\OdeToFood\OdeToFood\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Others\Projects\OdeToFood\OdeToFood\OdeToFood\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Others\Projects\OdeToFood\OdeToFood\OdeToFood\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Others\Projects\OdeToFood\OdeToFood\OdeToFood\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Others\Projects\OdeToFood\OdeToFood\OdeToFood\bin\roslyn\System.Collections.Immutable.dll
+D:\Others\Projects\OdeToFood\OdeToFood\OdeToFood\bin\roslyn\System.Reflection.Metadata.dll
+D:\Others\Projects\OdeToFood\OdeToFood\OdeToFood\bin\roslyn\vbc.exe
+D:\Others\Projects\OdeToFood\OdeToFood\OdeToFood\bin\roslyn\VBCSCompiler.exe
+D:\Others\Projects\OdeToFood\OdeToFood\OdeToFood\bin\roslyn\VBCSCompiler.exe.config
+D:\Others\Projects\OdeToFood\OdeToFood\OdeToFood\bin\OdeToFood.dll.config
+D:\Others\Projects\OdeToFood\OdeToFood\OdeToFood\bin\OdeToFood.dll
+D:\Others\Projects\OdeToFood\OdeToFood\OdeToFood\bin\OdeToFood.pdb
+D:\Others\Projects\OdeToFood\OdeToFood\OdeToFood\bin\Antlr3.Runtime.dll
+D:\Others\Projects\OdeToFood\OdeToFood\OdeToFood\bin\EntityFramework.dll
+D:\Others\Projects\OdeToFood\OdeToFood\OdeToFood\bin\EntityFramework.SqlServer.dll
+D:\Others\Projects\OdeToFood\OdeToFood\OdeToFood\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Others\Projects\OdeToFood\OdeToFood\OdeToFood\bin\Microsoft.AI.DependencyCollector.dll
+D:\Others\Projects\OdeToFood\OdeToFood\OdeToFood\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Others\Projects\OdeToFood\OdeToFood\OdeToFood\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Others\Projects\OdeToFood\OdeToFood\OdeToFood\bin\Microsoft.AI.Web.dll
+D:\Others\Projects\OdeToFood\OdeToFood\OdeToFood\bin\Microsoft.AI.WindowsServer.dll
+D:\Others\Projects\OdeToFood\OdeToFood\OdeToFood\bin\Microsoft.ApplicationInsights.dll
+D:\Others\Projects\OdeToFood\OdeToFood\OdeToFood\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Others\Projects\OdeToFood\OdeToFood\OdeToFood\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Others\Projects\OdeToFood\OdeToFood\OdeToFood\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Others\Projects\OdeToFood\OdeToFood\OdeToFood\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Others\Projects\OdeToFood\OdeToFood\OdeToFood\bin\Microsoft.Owin.dll
+D:\Others\Projects\OdeToFood\OdeToFood\OdeToFood\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Others\Projects\OdeToFood\OdeToFood\OdeToFood\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Others\Projects\OdeToFood\OdeToFood\OdeToFood\bin\Microsoft.Owin.Security.dll
+D:\Others\Projects\OdeToFood\OdeToFood\OdeToFood\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Others\Projects\OdeToFood\OdeToFood\OdeToFood\bin\Microsoft.Owin.Security.Google.dll
+D:\Others\Projects\OdeToFood\OdeToFood\OdeToFood\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Others\Projects\OdeToFood\OdeToFood\OdeToFood\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Others\Projects\OdeToFood\OdeToFood\OdeToFood\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Others\Projects\OdeToFood\OdeToFood\OdeToFood\bin\Microsoft.Web.Infrastructure.dll
+D:\Others\Projects\OdeToFood\OdeToFood\OdeToFood\bin\Newtonsoft.Json.dll
+D:\Others\Projects\OdeToFood\OdeToFood\OdeToFood\bin\Owin.dll
+D:\Others\Projects\OdeToFood\OdeToFood\OdeToFood\bin\System.Web.Helpers.dll
+D:\Others\Projects\OdeToFood\OdeToFood\OdeToFood\bin\System.Web.Mvc.dll
+D:\Others\Projects\OdeToFood\OdeToFood\OdeToFood\bin\System.Web.Optimization.dll
+D:\Others\Projects\OdeToFood\OdeToFood\OdeToFood\bin\System.Web.Razor.dll
+D:\Others\Projects\OdeToFood\OdeToFood\OdeToFood\bin\System.Web.WebPages.Deployment.dll
+D:\Others\Projects\OdeToFood\OdeToFood\OdeToFood\bin\System.Web.WebPages.dll
+D:\Others\Projects\OdeToFood\OdeToFood\OdeToFood\bin\System.Web.WebPages.Razor.dll
+D:\Others\Projects\OdeToFood\OdeToFood\OdeToFood\bin\WebGrease.dll
+D:\Others\Projects\OdeToFood\OdeToFood\OdeToFood\bin\EntityFramework.xml
+D:\Others\Projects\OdeToFood\OdeToFood\OdeToFood\bin\Microsoft.AI.DependencyCollector.xml
+D:\Others\Projects\OdeToFood\OdeToFood\OdeToFood\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Others\Projects\OdeToFood\OdeToFood\OdeToFood\bin\Microsoft.AI.Web.xml
+D:\Others\Projects\OdeToFood\OdeToFood\OdeToFood\bin\Microsoft.AI.WindowsServer.xml
+D:\Others\Projects\OdeToFood\OdeToFood\OdeToFood\bin\Microsoft.ApplicationInsights.xml
+D:\Others\Projects\OdeToFood\OdeToFood\OdeToFood\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Others\Projects\OdeToFood\OdeToFood\OdeToFood\bin\System.Web.Helpers.xml
+D:\Others\Projects\OdeToFood\OdeToFood\OdeToFood\bin\System.Web.Mvc.xml
+D:\Others\Projects\OdeToFood\OdeToFood\OdeToFood\bin\System.Web.Optimization.xml
+D:\Others\Projects\OdeToFood\OdeToFood\OdeToFood\bin\System.Web.Razor.xml
+D:\Others\Projects\OdeToFood\OdeToFood\OdeToFood\bin\System.Web.WebPages.xml
+D:\Others\Projects\OdeToFood\OdeToFood\OdeToFood\bin\System.Web.WebPages.Deployment.xml
+D:\Others\Projects\OdeToFood\OdeToFood\OdeToFood\bin\System.Web.WebPages.Razor.xml
+D:\Others\Projects\OdeToFood\OdeToFood\OdeToFood\bin\Antlr3.Runtime.pdb
+D:\Others\Projects\OdeToFood\OdeToFood\OdeToFood\bin\Newtonsoft.Json.xml
+D:\Others\Projects\OdeToFood\OdeToFood\OdeToFood\bin\EntityFramework.SqlServer.xml
+D:\Others\Projects\OdeToFood\OdeToFood\OdeToFood\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Others\Projects\OdeToFood\OdeToFood\OdeToFood\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Others\Projects\OdeToFood\OdeToFood\OdeToFood\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Others\Projects\OdeToFood\OdeToFood\OdeToFood\bin\Microsoft.Owin.xml
+D:\Others\Projects\OdeToFood\OdeToFood\OdeToFood\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Others\Projects\OdeToFood\OdeToFood\OdeToFood\bin\Microsoft.Owin.Security.xml
+D:\Others\Projects\OdeToFood\OdeToFood\OdeToFood\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Others\Projects\OdeToFood\OdeToFood\OdeToFood\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Others\Projects\OdeToFood\OdeToFood\OdeToFood\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Others\Projects\OdeToFood\OdeToFood\OdeToFood\bin\Microsoft.Owin.Security.Google.xml
+D:\Others\Projects\OdeToFood\OdeToFood\OdeToFood\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Others\Projects\OdeToFood\OdeToFood\OdeToFood\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Others\Projects\OdeToFood\OdeToFood\OdeToFood\obj\Debug\OdeToFood.dll
+D:\Others\Projects\OdeToFood\OdeToFood\OdeToFood\obj\Debug\OdeToFood.pdb
+D:\Others\Projects\OdeToFood\OdeToFood\OdeToFood\obj\Debug\OdeToFood.csprojResolveAssemblyReference.cache
+D:\Others\Projects\OdeToFood\OdeToFood\OdeToFood\bin\EntityFramework.PowerShell.dll
+D:\Others\Projects\OdeToFood\OdeToFood\OdeToFood\bin\EntityFramework.PowerShell.Utility.dll
+D:\Others\Projects\OdeToFood\OdeToFood\OdeToFood\bin\PagedList.dll
+D:\Others\Projects\OdeToFood\OdeToFood\OdeToFood\bin\PagedList.Mvc.dll
+D:\Others\Projects\OdeToFood\OdeToFood\OdeToFood\bin\PagedList.xml
+D:\Others\Projects\OdeToFood\OdeToFood\OdeToFood\bin\PagedList.Mvc.xml
